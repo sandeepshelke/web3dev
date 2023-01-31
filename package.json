@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "hardhat": "^2.12.6"
+  },
+  "dependencies": {
+    "ethereum-cryptography": "^1.1.2"
+  }
+}
