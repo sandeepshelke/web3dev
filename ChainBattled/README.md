@@ -14,4 +14,5 @@ npx hardhat node
 npx hardhat run scripts/deploy.js --network mumbai
 ```
 
-Deployed smart contract 0xb60e3A4F59B594B88864F1854266D5208e3E26A1
+Deployed original smart contract 0xb60e3A4F59B594B88864F1854266D5208e3E26A1
+Deployed smart contract with struct 0x87e48C755A404726B99558b355CDD275f4b80430
