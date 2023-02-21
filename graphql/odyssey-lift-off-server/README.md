@@ -1,17 +1,17 @@
-# Odyssey Lift-off I: Basics
+# Odyssey Lift-off server
 
-Welcome to the companion app of Odyssey Lift-off I! You can [find the course lessons and instructions on Odyssey](https://odyssey.apollographql.com/lift-off-part1), Apollo's learning platform.
-
-You can [preview the completed demo app here](https://lift-off-client-demo.netlify.app/).
+Welcome to Odyssey Lift-off server. This is code along completed repo for all five parts
+- [Basics](https://www.apollographql.com/tutorials/lift-off-part1)
+- [Resolvers](https://www.apollographql.com/tutorials/lift-off-part2)
+- [Arguments](https://www.apollographql.com/tutorials/lift-off-part3)
+- [Mutations](https://www.apollographql.com/tutorials/lift-off-part4)
+- [Production and Schema Registry](https://www.apollographql.com/tutorials/lift-off-part5)
 
 ## How to use this repo
 
-The course will walk you step by step on how to implement the features you see in the demo app. This codebase is the starting point of your journey!
-
-There are 2 main folders:
+There are following main folders:
 
 - `server`: The starting point of our GraphQL server.
-- `client`: The starting point of our React application.
 
 To get started:
 
@@ -21,13 +21,6 @@ To get started:
 
 This will start the GraphQL API server.
 
-In another Terminal window,
-
-1. Navigate to the `client` folder.
-1. Run `npm install`.
-1. Run `npm start`.
-
-This will open up `localhost:3000` in your web browser.
 
 ## Getting Help
 
